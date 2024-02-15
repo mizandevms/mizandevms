@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mizanur Rahman Mizan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Greetings, I'm Mizanur Rahman Mizan</h1>
+<h4 align="center">A proficient mid-level software engineer with a strong focus on frontend development, I bring expertise in React, Redux-Saga, TypeScript, JavaScript, Next.js, Tailwind CSS, Vue.js, CSS, and HTML5. My experience encompasses building dynamic and responsive user interfaces, utilizing the latest web technologies to create seamless and efficient applications. With a keen eye for design and a commitment to writing clean, maintainable code, I am well-equipped to contribute to projects that require a diverse skill set in frontend development.</h4>
+
+- 🌱 I’m currently learning **Three.js**
+
+- 💬 Ask me about **react, vue. gsap**
+
+- 📫 How to reach me **m.mizan.rahman.mizan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/md-mizanur-rahman-mizan-8a8322171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mizanur-rahman-mizan-8a8322171/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
