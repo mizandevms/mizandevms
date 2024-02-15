@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Mizanur Rahman Mizan</h1>
-<h4 align="center">A proficient mid-level software engineer with a strong focus on frontend development, I bring expertise in React, Redux-Saga, TypeScript, JavaScript, Next.js, Tailwind CSS, Vue.js, CSS, and HTML5. My experience encompasses building dynamic and responsive user interfaces, utilizing the latest web technologies to create seamless and efficient applications. With a keen eye for design and a commitment to writing clean, maintainable code, I am well-equipped to contribute to projects that require a diverse skill set in frontend development.</h4>
+<h4 align="justify" >A proficient mid-level software engineer with a strong focus on frontend development, I bring expertise in React, Redux-Saga, TypeScript, JavaScript, Next.js, Tailwind CSS, Vue.js, CSS, and HTML5. My experience encompasses building dynamic and responsive user interfaces, utilizing the latest web technologies to create seamless and efficient applications. With a keen eye for design and a commitment to writing clean, maintainable code, I am well-equipped to contribute to projects that require a diverse skill set in frontend development.</h4>
 
 - 🌱 I’m currently learning **Three.js**
 
