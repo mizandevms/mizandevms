@@ -6,6 +6,7 @@
 - 💬 Ask me about **react, vue. gsap**
 
 - 📫 How to reach me **m.mizan.rahman.mizan@gmail.com**
+- 📫 To see my recent work profile **https://gitlab.com/mizan.zicore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
